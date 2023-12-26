@@ -1,9 +1,13 @@
 <h1 align="center">Olá 👋, sou Joelson Oliveira</h1>
 <h3 align="center">Um desenvolvedor apaixonado por aprender</h3>
 
-<h3 align="left">Conecte-se comigo:< /h3>
+- 🌱 Atualmente estou aprendendo **python**
+
+- 📫 Como entrar em contato comigo **joelsonoliveiradev@gmail.com**
+
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/joelsonoliveiradevops" target="blank"><img align="center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in /joelsonoliveiradevops" height="30" width="40" /></a>
+<a href="https://linkedin.com /in/www.linkedin.com/in/joelsonoliveiradevops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master /src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/joelsonoliveiradevops" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Idiomas e ferramentas:</h3>
