@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Joelson Oliveira and I'm a Fullstack Developer Junior</h2>
+<h2 align="left">Hi! My name is Joelson Oliveira and I'm a Fullstack Developer Junior</h2>
 
 ###
 
